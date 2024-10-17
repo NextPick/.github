@@ -178,28 +178,25 @@
 
 | 페이지 (기능)         | 이미지                                                                                                                          |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 메인                  | ![메인 페이지](https://github.com/user-attachments/assets/1dadffa7-6570-4b0f-a8c1-eaff280258ec)                 |
-| 체험하러 가기         | ![해몽하기](https://github.com/user-attachments/assets/4a50d88c-24ab-4e04-bd32-d0c60ad10cf9)                |
-| 회원가입             | ![회원가입](https://github.com/user-attachments/assets/6f312f14-b7fe-437c-8bd3-6df5c40c37eb) |
-| 로그인               | ![시연영상 프로필 변경](https://github.com/user-attachments/assets/6879b06c-8c1c-40da-bd45-7feb99e15db9)        |
-| 로그아웃               | ![시연영상 프로필 변경](https://github.com/user-attachments/assets/6879b06c-8c1c-40da-bd45-7feb99e15db9)        |
-| Ai면접-선택화면 | ![시연영상 닉네임변경](https://github.com/user-attachments/assets/db90bc73-94f9-452d-ab3a-7da8d8f4c3da)           |
-| Ai면접-음성녹음 | ![비밀번호 변경](https://github.com/user-attachments/assets/92a20e0d-a953-4398-b633-4552f9729e70) |
-| Ai면접-결과확인 | ![결과창공유](https://github.com/user-attachments/assets/7a68bc1a-4c2b-4731-9364-88cc655449ee)                |
+| 메인                  | ![렌딩페이지](https://github.com/user-attachments/assets/bdda57ac-5464-4e11-9312-d251f98698cf)|
+| 체험하러 가기         | ![체험하러가기](https://github.com/user-attachments/assets/ab147b20-a74e-4738-b5e6-82846f63a843)|
+| 회원가입-이메일             | ![회원가입-이메일](https://github.com/user-attachments/assets/22215173-0889-4e02-8be4-8301232112ec)|
+| 로그인-로그아웃       | ![로그아웃-로그인](https://github.com/user-attachments/assets/759772fd-42f2-4f5d-8b04-8cfebdc81c5d)|
+| 프로필 변경          | ![마이페이지-프로필변겅](https://github.com/user-attachments/assets/6f257c90-672f-44a6-8e4a-239683649eba)|
+| Ai면접-선택화면/음성녹음  |![ai-home 문제풀고 답변나옴 (1)](https://github.com/user-attachments/assets/9c8e0b4f-300d-4115-8ff7-43a7fc28c462)|
+| Ai면접-결과확인 | ![결과창-내가푼리스트](https://github.com/user-attachments/assets/c7b1b5f1-27bf-4e1a-833b-bcc97aa741d0)|
 | 화상면접-입장하기(멘티) | ![시연영상 공유누른거](https://github.com/user-attachments/assets/e1c5eabc-5662-4a04-9ead-9857ff02dd66)              |
 | 화상면접-방만들기(멘토) | ![게시판삭제](https://github.com/user-attachments/assets/508d59cb-a79b-4ec5-9b3c-7e5252a956db)           |
 | 화상면접-피드백 결과창(멘토/멘티) | ![시연영상 게시판 좋아요댓글](https://github.com/user-attachments/assets/47fad19c-479a-457e-9b75-5f1257ef1d73)      |
-| 면접/질문게시판-게시글 작성 | ![댓글수정](https://github.com/user-attachments/assets/fb9a59d9-cf40-42f2-8568-4e7492a50a8f)       |
-| 면접/질문게시판-좋아요      | ![회원탈퇴](https://github.com/user-attachments/assets/9d6af278-1c07-4b9a-92a2-53fca0989654)              |
-| 면접/질문게시판-댓글작성(대댓글포함)      | ![회원탈퇴](https://github.com/user-attachments/assets/9d6af278-1c07-4b9a-92a2-53fca0989654)              |
-| 면접/질문게시판-게시글 삭제      | ![회원탈퇴](https://github.com/user-attachments/assets/9d6af278-1c07-4b9a-92a2-53fca0989654)              |
-| 마이페이지-내프로필      | ![회원탈퇴](https://github.com/user-attachments/assets/9d6af278-1c07-4b9a-92a2-53fca0989654)              |
-| 마이페이지-정답/오답노트      | ![회원탈퇴](https://github.com/user-attachments/assets/9d6af278-1c07-4b9a-92a2-53fca0989654)              |
+| 면접/질문게시판-게시글 작성/좋아요      | ![질문게시판-글작성 좋아요,댓글](https://github.com/user-attachments/assets/46860b52-1c1e-4a0d-91c7-a31430594d97)|
+| 면접/질문게시판-댓글작성/수정 | ![면접게시글-댓글수정](https://github.com/user-attachments/assets/78959924-6f4f-4c58-a601-a2cb5399edbd)|
+| 면접/질문게시판-게시글 삭제      | ![질문게시판-삭제](https://github.com/user-attachments/assets/46491e8a-1539-4eaf-85de-97705a446e71) |
+| 마이페이지-정답/오답노트      | ![마이페이지-정답오답](https://github.com/user-attachments/assets/4d7355ac-df2c-4e69-a170-33eccf0d6a99)|
 | 마이페이지-받은피드백(멘티)      | ![회원탈퇴](https://github.com/user-attachments/assets/9d6af278-1c07-4b9a-92a2-53fca0989654)              |
 | 마이페이지-받은피드백(멘토)      | ![회원탈퇴](https://github.com/user-attachments/assets/9d6af278-1c07-4b9a-92a2-53fca0989654)              |
-| 관리자페이지-서비스 이용비율      | ![회원탈퇴](https://github.com/user-attachments/assets/9d6af278-1c07-4b9a-92a2-53fca0989654)              |
-| 관리자페이지-면접질문 관리    | ![회원탈퇴](https://github.com/user-attachments/assets/9d6af278-1c07-4b9a-92a2-53fca0989654)              |
-| 관리자페이지-면접질문 추가    | ![회원탈퇴](https://github.com/user-attachments/assets/9d6af278-1c07-4b9a-92a2-53fca0989654)              |
+| 관리자페이지-서비스 이용비율      |![관리자-사용자비율](https://github.com/user-attachments/assets/1f5bcefd-7f52-4bce-8318-4fddff1a7778)  |
+| 관리자페이지-면접질문 관리    |![관리자-면접질문관리](https://github.com/user-attachments/assets/7b4f53ac-f844-47c7-b7f6-468066f0fb19)    |
+| 관리자페이지-면접질문 추가    |![관리자-면접질문관리](https://github.com/user-attachments/assets/bfa9bbce-992e-4ec5-8cc8-b98b66e0f068)|
 | 관리자페이지-멘토가입 신청관리      | ![회원탈퇴](https://github.com/user-attachments/assets/9d6af278-1c07-4b9a-92a2-53fca0989654)              |
 
 

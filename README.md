@@ -179,7 +179,6 @@
 | 페이지 (기능)                   | 이미지                                                                                                                           |
 | --------------------------      | -------------------------------------------------------------------------------------------------------------------------------  |
 | 메인                            | ![렌딩페이지](https://github.com/user-attachments/assets/4d8976f6-7e66-46e9-b1f0-4017bbbd4681)|
-| 체험하러 가기                    | ![체험하러가기](https://github.com/user-attachments/assets/2d96384d-d989-4ea6-a2f8-3200012f6f88)|
 | 회원가입-이메일                  | ![회원가입-이메일](https://github.com/user-attachments/assets/0f178c40-7538-4b53-88b8-9824c19d4c0c)|
 | 로그인-로그아웃                  | ![로그아웃-로그인](https://github.com/user-attachments/assets/f8546bad-29ab-46d1-bdfc-18267a924b9c)|
 | 프로필 변경                      |![마이페이지-프로필변겅](https://github.com/user-attachments/assets/335ada26-223a-4684-b07e-2175c8cca123)|

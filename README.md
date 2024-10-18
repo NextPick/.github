@@ -181,7 +181,6 @@
 | 메인                            | ![렌딩페이지](https://github.com/user-attachments/assets/4d8976f6-7e66-46e9-b1f0-4017bbbd4681)|
 | 회원가입-이메일                  | ![회원가입-이메일](https://github.com/user-attachments/assets/0f178c40-7538-4b53-88b8-9824c19d4c0c)|
 | 로그인-로그아웃                  | ![로그아웃-로그인](https://github.com/user-attachments/assets/f8546bad-29ab-46d1-bdfc-18267a924b9c)|
-| 프로필 변경                      |![마이페이지-프로필변겅](https://github.com/user-attachments/assets/335ada26-223a-4684-b07e-2175c8cca123)|
 | 마이페이지-정답/오답노트          | ![마이페이지-정답오답](https://github.com/user-attachments/assets/d3b7b71f-94c2-468d-833f-e153f54c1561)|
 | Ai면접-선택화면/음성녹음          |![ai-home 문제풀고 답변나옴](https://github.com/user-attachments/assets/f371e3c9-bc77-4051-8950-54a3af2d6531)|
 | Ai면접-결과확인                  |![결과창-내가푼리스트](https://github.com/user-attachments/assets/e0198797-8869-414d-bcf0-4b8149688cf9)|

@@ -176,29 +176,27 @@
 
 ## 🖥 구현 이미지
 
-| 페이지 (기능)         | 이미지                                                                                                                          |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 메인                  | ![렌딩페이지](https://github.com/user-attachments/assets/bdda57ac-5464-4e11-9312-d251f98698cf)|
-| 체험하러 가기         | ![체험하러가기](https://github.com/user-attachments/assets/ab147b20-a74e-4738-b5e6-82846f63a843)|
-| 회원가입-이메일             | ![회원가입-이메일](https://github.com/user-attachments/assets/22215173-0889-4e02-8be4-8301232112ec)|
-| 로그인-로그아웃       | ![로그아웃-로그인](https://github.com/user-attachments/assets/759772fd-42f2-4f5d-8b04-8cfebdc81c5d)|
-| 프로필 변경          | ![마이페이지-프로필변겅](https://github.com/user-attachments/assets/6f257c90-672f-44a6-8e4a-239683649eba)|
-| Ai면접-선택화면/음성녹음  |![ai-home 문제풀고 답변나옴 (1)](https://github.com/user-attachments/assets/9c8e0b4f-300d-4115-8ff7-43a7fc28c462)|
-| Ai면접-결과확인 | ![결과창-내가푼리스트](https://github.com/user-attachments/assets/c7b1b5f1-27bf-4e1a-833b-bcc97aa741d0)|
-| 화상면접-방만들기(멘토) | ![게시판삭제](https://github.com/NextPick/.github/blob/main/src/%EB%B0%A9%EC%83%9D%EC%84%B1.gif)           |
-| 화상면접-입장하기(멘티) | ![시연영상 공유누른거](https://github.com/NextPick/.github/blob/main/src/%EB%B0%A9%EC%9E%85%EC%9E%A5(%EB%A9%98%ED%8B%B0).gif)              |
-| 화상면접-피드백 작성(멘티) | ![시연영상 게시판 좋아요댓글](https://github.com/NextPick/.github/blob/main/src/%ED%94%BC%EB%93%9C%EB%B0%B1%EC%9E%91%EC%84%B1.gif)      |
+| 페이지 (기능)                   | 이미지                                                                                                                           |
+| --------------------------      | -------------------------------------------------------------------------------------------------------------------------------  |
+| 메인                            | ![렌딩페이지](https://github.com/user-attachments/assets/4d8976f6-7e66-46e9-b1f0-4017bbbd4681)|
+| 체험하러 가기                    | ![체험하러가기](https://github.com/user-attachments/assets/2d96384d-d989-4ea6-a2f8-3200012f6f88)|
+| 회원가입-이메일                  | ![회원가입-이메일](https://github.com/user-attachments/assets/0f178c40-7538-4b53-88b8-9824c19d4c0c)|
+| 로그인-로그아웃                  | ![로그아웃-로그인](https://github.com/user-attachments/assets/f8546bad-29ab-46d1-bdfc-18267a924b9c)|
+| 프로필 변경                      |![마이페이지-프로필변겅](https://github.com/user-attachments/assets/335ada26-223a-4684-b07e-2175c8cca123)|
+| 마이페이지-정답/오답노트          | ![마이페이지-정답오답](https://github.com/user-attachments/assets/d3b7b71f-94c2-468d-833f-e153f54c1561)|
+| Ai면접-선택화면/음성녹음          |![ai-home 문제풀고 답변나옴](https://github.com/user-attachments/assets/f371e3c9-bc77-4051-8950-54a3af2d6531)|
+| Ai면접-결과확인                  |![결과창-내가푼리스트](https://github.com/user-attachments/assets/e0198797-8869-414d-bcf0-4b8149688cf9)|
+| 화상면접-방만들기(멘토)           | ![게시판삭제](https://github.com/NextPick/.github/blob/main/src/%EB%B0%A9%EC%83%9D%EC%84%B1.gif)           |
+| 화상면접-입장하기(멘티)           | ![시연영상 공유누른거](https://github.com/NextPick/.github/blob/main/src/%EB%B0%A9%EC%9E%85%EC%9E%A5(%EB%A9%98%ED%8B%B0).gif)              |
+| 화상면접-피드백 작성(멘티)        | ![시연영상 게시판 좋아요댓글](https://github.com/NextPick/.github/blob/main/src/%ED%94%BC%EB%93%9C%EB%B0%B1%EC%9E%91%EC%84%B1.gif) |
 | 화상면접-피드백 작성(멘토), 결과창 | ![시연영상 게시판 좋아요댓글](https://github.com/NextPick/.github/blob/main/src/%EB%A9%98%ED%86%A0%ED%94%BC%EB%93%9C%EB%B0%B1%EC%9E%91%EC%84%B1.gif)      |
-| 면접/질문게시판-게시글 작성/좋아요      | ![질문게시판-글작성 좋아요,댓글](https://github.com/user-attachments/assets/46860b52-1c1e-4a0d-91c7-a31430594d97)|
-| 면접/질문게시판-댓글작성/수정 | ![면접게시글-댓글수정](https://github.com/user-attachments/assets/78959924-6f4f-4c58-a601-a2cb5399edbd)|
-| 면접/질문게시판-게시글 삭제      | ![질문게시판-삭제](https://github.com/user-attachments/assets/46491e8a-1539-4eaf-85de-97705a446e71) |
-| 마이페이지-정답/오답노트      | ![마이페이지-정답오답](https://github.com/user-attachments/assets/4d7355ac-df2c-4e69-a170-33eccf0d6a99)|
-| 마이페이지-받은피드백(멘티)      | ![회원탈퇴]              |
-| 마이페이지-받은피드백(멘토)      | ![회원탈퇴]            |
-| 관리자페이지-서비스 이용비율      |![관리자-사용자비율](https://github.com/user-attachments/assets/1f5bcefd-7f52-4bce-8318-4fddff1a7778)  |
-| 관리자페이지-면접질문 관리    |![관리자-면접질문관리](https://github.com/user-attachments/assets/7b4f53ac-f844-47c7-b7f6-468066f0fb19)    |
-| 관리자페이지-면접질문 추가    |![관리자-면접질문관리](https://github.com/user-attachments/assets/bfa9bbce-992e-4ec5-8cc8-b98b66e0f068)|
-| 관리자페이지-멘토가입 신청관리      | ![회원탈퇴]              |
+| 면접/질문게시판-게시글 작성/좋아요  | ![질문게시판-글작성 좋아요,댓글](https://github.com/user-attachments/assets/fda91680-5634-4824-b008-9ec7d9930987)|
+| 면접/질문게시판-댓글작성/수정      | ![면접게시글-댓글수정](https://github.com/user-attachments/assets/a86457cc-49ce-47fe-8b02-6e1c5daa0559)|
+| 면접/질문게시판-게시글 삭제        | ![면접게시글 삭제](https://github.com/user-attachments/assets/08973479-f64c-4963-b757-a37d509d5f0f)|
+| 관리자페이지-서비스 이용비율      |![관리자-사용자비율](https://github.com/user-attachments/assets/928a3be5-4abd-4c25-bc01-1aee0bb49f81)|
+| 관리자페이지-면접질문 관리        |![관리자-면접질문관리](https://github.com/user-attachments/assets/7a884efa-4a37-47b0-b80e-a968e1b20122)|
+| 관리자페이지-면접질문 추가        |![관리자-질문추가](https://github.com/user-attachments/assets/c824b164-baf6-4231-b373-aca08a6daf8d)|
+
 
 
 

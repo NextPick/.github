@@ -259,9 +259,9 @@
 <br>
 <br>
 
-## 📜 서비스 구현영상
+<!--## 📜 서비스 구현영상-->
 
-(https://www.notion.so/78baad5aef8d4c1f8808adf5945136d1?pvs=21)-->
+<!--(https://www.notion.so/78baad5aef8d4c1f8808adf5945136d1?pvs=21)-->
 
 
 <br>

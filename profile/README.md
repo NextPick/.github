@@ -14,7 +14,8 @@
 - **진행 기간** : 24.09.23 ~ 24.10.18
 - **서비스 URL** : [▶️넥스트픽]https://client.nextpick.site/
 
----
+<br>
+<br>
 
 ## 👨‍👩‍👧‍👦 팀원 소개
 
@@ -24,7 +25,8 @@
 |  **@[신민준](https://github.com/Tizesin)** | **@[chaeneeee](https://github.com/chaeneeee)** | **@[seoyeon1221](https://github.com/seoyeon1221)** | **@[JinhyeongSeo](https://github.com/JinhyeongSeo)** |
 | BE(팀장)/FE | BE/FE | FE | BE/FE |
 
----
+<br>
+<br>
 
 ## 🔧 기술 스택 & 개발 환경
 
@@ -239,7 +241,8 @@
   팀원 간의 실시간 소통을 위해 사용하였습니다.
 </details>
 
----
+<br>
+<br>
 
 ## 📝 관련 문서
 
@@ -253,14 +256,16 @@
 
 #### [📌 테이블 명세서](https://file.notion.so/f/f/b3b2dbcb-a21b-4883-b190-c5b016207529/15e79f6f-e87b-42e3-8f21-a578ff810453/NextPick.svg?table=block&id=abae201c-c946-4f98-a9ce-c0574d2182bf&spaceId=b3b2dbcb-a21b-4883-b190-c5b016207529&expirationTimestamp=1729209600000&signature=dum2WnZe1CId5EXBEJvFhjn0QdZKdZwq4Qf9EzoRKNY&downloadName=NextPick.svg)
 <!--
----
+<br>
+<br>
 
 ## 📜 서비스 구현영상
 
 (https://www.notion.so/78baad5aef8d4c1f8808adf5945136d1?pvs=21)-->
 
 
----
+<br>
+<br>
 
 ## 🖥 구현 이미지
 
@@ -283,7 +288,8 @@
 | 관리자페이지-면접질문 관리        |![관리자-면접질문관리](https://github.com/user-attachments/assets/7a884efa-4a37-47b0-b80e-a968e1b20122)|
 | 관리자페이지-면접질문 추가        |![관리자-질문추가](https://github.com/user-attachments/assets/c824b164-baf6-4231-b373-aca08a6daf8d)|
 
----
+<br>
+<br>
 
 ## 💻구성원 별 담당 내용
 
@@ -299,7 +305,8 @@
 ### 서진형
 <br/>
 
----
+<br>
+<br>
 
 ## ✔️프로젝트 회고
 

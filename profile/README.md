@@ -237,19 +237,19 @@
 
 ## 📝 관련 문서
 
-### [📌 요구사항 정의서](https://docs.google.com/spreadsheets/d/1zK7R5RRkSGqj4YHnScjuCrzxV7UPApcpE4IUJkuCdcI/edit?gid=0#gid=0)
+#### [📌 요구사항 정의서](https://docs.google.com/spreadsheets/d/1zK7R5RRkSGqj4YHnScjuCrzxV7UPApcpE4IUJkuCdcI/edit?gid=0#gid=0)
 
-### [📌 화면 정의서](https://www.figma.com/design/NPfnl9bNWE7JCbEuJqILJh/Untitled?node-id=0-1&t=1dmq8CDgxhdb8zWZ-1)
+#### [📌 화면 정의서](https://www.figma.com/design/NPfnl9bNWE7JCbEuJqILJh/Untitled?node-id=0-1&t=1dmq8CDgxhdb8zWZ-1)
 
-### [📌 API 명세서](https://www.notion.so/API-fff3eff34e59811c8b8beed69cfb48d8)
+#### [📌 API 명세서](https://www.notion.so/API-fff3eff34e59811c8b8beed69cfb48d8)
 
-### [📌 ERD](https://www.erdcloud.com/d/PzWiR5FZqc6hTEun7)
+#### [📌 ERD](https://www.erdcloud.com/d/PzWiR5FZqc6hTEun7)
 
-### [📌 테이블 명세서](https://file.notion.so/f/f/b3b2dbcb-a21b-4883-b190-c5b016207529/15e79f6f-e87b-42e3-8f21-a578ff810453/NextPick.svg?table=block&id=abae201c-c946-4f98-a9ce-c0574d2182bf&spaceId=b3b2dbcb-a21b-4883-b190-c5b016207529&expirationTimestamp=1729209600000&signature=dum2WnZe1CId5EXBEJvFhjn0QdZKdZwq4Qf9EzoRKNY&downloadName=NextPick.svg)
+#### [📌 테이블 명세서](https://file.notion.so/f/f/b3b2dbcb-a21b-4883-b190-c5b016207529/15e79f6f-e87b-42e3-8f21-a578ff810453/NextPick.svg?table=block&id=abae201c-c946-4f98-a9ce-c0574d2182bf&spaceId=b3b2dbcb-a21b-4883-b190-c5b016207529&expirationTimestamp=1729209600000&signature=dum2WnZe1CId5EXBEJvFhjn0QdZKdZwq4Qf9EzoRKNY&downloadName=NextPick.svg)
 
 ## 📜 서비스 구현영상
 
-(https://www.notion.so/78baad5aef8d4c1f8808adf5945136d1?pvs=21)
+<!--(https://www.notion.so/78baad5aef8d4c1f8808adf5945136d1?pvs=21)-->
 
 ## 🖥 구현 이미지
 

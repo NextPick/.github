@@ -1,5 +1,5 @@
 # ▶️ Next Pick!
-<img src="https://github.com/NextPick/.github/blob/main/src/logo.png" alt="Next Pick Logo" width="1000">
+<img src="https://github.com/NextPick/.github/blob/main/src/logo_bg.png" alt="Next Pick Logo" width="1000">
 
 **다음회사의 Pick은 당신입니다**
 
